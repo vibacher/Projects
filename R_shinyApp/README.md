@@ -1,6 +1,7 @@
 # Interactive Data Exploration Dashboard (R Shiny)
 
 An interactive web application built in R Shiny for exploring, filtering, and visualising structured JSON datasets (`data_cia2.json`). The dataset had to be tidied, analysed and visualised.
+*Note: Developed as part of a university team project at TU Wien, with my main contributions focusing on data cleaning, building the UI and interactive visualisation with plotly and ggplot2*.
 
 ## Files
 - `app.R` – Complete Shiny application containing both the reactive UI layout and server-side data processing/plotting logic.
