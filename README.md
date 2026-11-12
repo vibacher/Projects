@@ -1,6 +1,6 @@
 # Portfolio of Coding and Data Science Projects
 
-Welcome to my project repository:) Here you will find a selection of academic and personal software projects demonstrating my 
+Welcome to my project repository. Here you will find a selection of academic and personal software projects demonstrating my 
 experience in **Python, R, C++, statistical modeling, and machine learning**.
 
 ## Projects Overview
