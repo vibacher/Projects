@@ -22,7 +22,7 @@ The results can be seen in [benchmark_results.md](benchmark_results.md).
 
 ## Limitations
 - The synthetic example dataset is very small (14 items). Thus, differences in method scores are not statistically reliable.
-- Note, that the Hybrid Case was implemented after having a look at the data.
+- Note, that the hybrid Case was implemented after having a look at the data.
 - Items predicted as `UNKNOWN` are calculated with the average emission factor of their categories.
 - Three items (all German-language) are misclassified by every method, likely because the category descriptions are English only.
 
