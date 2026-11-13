@@ -1,0 +1,13 @@
+category_id,category_name,description,ef_kg_co2e_per_chf
+EF01,Dairy products,Cow milk cheese butter yogurt and cream,1.85
+EF02,Plant-based milk and dairy substitutes,Oat milk soy drink almond milk vegan dairy alternatives,0.45
+EF03,Fresh vegetables and fruits,Seasonal produce organic vegetables apples bananas salads,0.38
+EF04,Meat and poultry products,Beef pork chicken sausages cold cuts,4.20
+EF05,Bakery and pastry products,Bread rolls croissants cakes pastries,0.72
+EF06,Coffee tea and cocoa,Roasted coffee beans espresso capsules tea bags,1.15
+EF07,Laboratory glassware and plastics,Pipette tips petri dishes test tubes beakers lab consumables,0.95
+EF08,Chemicals and reagents,Solvents ethanol buffers acids laboratory chemicals,1.40
+EF09,Computers and peripheral equipment,Laptops monitors workstations keyboards docking stations,0.65
+EF10,Scientific and medical instruments,Microscopes spectrometers sensors centrifuges measurement devices,0.80
+EF11,Office paper and printed matter,Copy paper notebooks envelopes printed brochures,0.55
+EF12,Catering and event food services,Event catering buffet lunch service apéro platters,1.30
