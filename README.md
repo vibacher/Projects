@@ -7,7 +7,7 @@ experience in **Python, R, C++, statistical modeling, and machine learning**.
 
 | Project | Domain & Focus | Tech Stack |
 | :--- | :--- | :--- |
-|**[emission factor ML models](./emission_ML)**| Comparison of different ML models for GHG accounting|Python, `scikit-learn`, `sentence-transformers`, `RapidFuzz`, `pandas`|
-| **[hydrodynamic_length](./hydrodynamic_length)** | Bachelor's Thesis: Bayesian statistical modeling, boundary condition analysis & data visualisation | `Python`,`Pymc`, `Arviz`, `Pandas`, `NumPy`, `SciPy`, `Matplotlib`, `PyTensor` |
+|**[emission factor ML models](./emission_ML)**| Comparison of different ML models for GHG accounting|`Python`, `scikit-learn`, `sentence-transformers`, `RapidFuzz`, `pandas`|
+| **[hydrodynamic_length](./hydrodynamic_length)** | Bachelor's Thesis: Bayesian statistical modeling, boundary condition analysis & data visualisation | `Python`,`PyMC`, `Arviz`, `pandas`, `NumPy`, `SciPy`, `Matplotlib`, `PyTensor` |
 | **[R_shinyApp](./R_shinyApp)** | Interactive Web Dashboard for exploratory data analysis and visualization | `R`, `Shiny`, `jsonlite`, `ggplot2`, `plotly`, `tidyverse` |
 | **[C++_CardGame](./C++_CardGame)** | Object-oriented game logic and state management | `C++`|
